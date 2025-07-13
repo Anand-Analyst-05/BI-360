@@ -1,6 +1,6 @@
 ## Business Insights 360 – AtliQ Hardware Brick & Mortar and E-Commerce
 
-📌 [Power BI Live Dashboard Report](https://app.powerbi.com/reportEmbed?reportId=2016b7f1-19ca-40dc-a9b8-96026acdf8b5&appId=69251476-e697-4298-adfa-f1bb9dca8dda&autoAuth=true&ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4) 👆🏻
+📌 [Power BI Live Dashboard Report](https://app.powerbi.com/view?r=eyJrIjoiZGE0N2JlYzMtMDE2NS00MjRkLWE3ZTEtNTk2N2I3NTlkMmQ0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9) 👆🏻
 
 ## 🧠 Project Summary
 
@@ -81,7 +81,7 @@ Now, their leadership gets clear, real-time insights. Fewer blind spots. Faster 
 
 ## 🧭 How to Explore
 
-1. Open the [Live Power BI Report](https://app.powerbi.com/reportEmbed?reportId=2016b7f1-19ca-40dc-a9b8-96026acdf8b5&appId=69251476-e697-4298-adfa-f1bb9dca8dda&autoAuth=true&ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4)
+1. Open the [Live Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiZGE0N2JlYzMtMDE2NS00MjRkLWE3ZTEtNTk2N2I3NTlkMmQ0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 2. Use the navigation buttons on the home page
 3. Explore each view: Finance, Sales, Marketing, Supply Chain, and Executive
 4. Apply filters to dig deeper into the data
@@ -115,7 +115,7 @@ For queries, collaboration opportunities, or feedback, feel free to reach out:
 
 - 📧 [**Email**:](anandcinenkanolu@gmail.com)
 - 💼 [**LinkedIn**:](https://www.linkedin.com/in/anand-cinenkanolu-data-analyst/)
-- 🗂️ [**Professional**](https://codebasics.io/portfolio/Anand-Cinenkanolu)
+- 🗂️ [**Portfolio**](https://codebasics.io/portfolio/Anand-Cinenkanolu)
 
 💼 Always open to feedback, collaboration, or job opportunities in data analytics!
 
