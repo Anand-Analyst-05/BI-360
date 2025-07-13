@@ -26,7 +26,7 @@ Now, their leadership gets clear, real-time insights. Fewer blind spots. Faster 
 ## 📊 Dashboard Previews
 
 ### 🔹 Home Page
-![Home Page]([./assets/home_page.png](https://github.com/Anand-Analyst-05/BI-360/blob/main/Files/Home%20Page.png?raw=true))
+![Home Page](https://github.com/Anand-Analyst-05/BI-360/blob/main/Files/Home%20Page.png?raw=true)
 
 ### 💰 Finance View
 Net Sales %, Gross Margin %, Profit/Loss over time
