@@ -25,7 +25,7 @@ Now, their leadership gets clear, real-time insights. Fewer blind spots. Faster 
 
 ## 📊 Dashboard Previews
 
-- 𝗛𝗼𝗺𝗲 𝗣𝗮𝗴𝗲: Intuitive dashboard hub enabling one-click access to Finance, Sales, Marketing, Supply Chain & Executive views for all domains.
+- Intuitive dashboard hub enabling one-click access to Finance, Sales, Marketing, Supply Chain & Executive views for all domains.
 
 ![Home Page](https://github.com/Anand-Analyst-05/BI-360/blob/main/Files/Home%20Page.png?raw=true)
 
