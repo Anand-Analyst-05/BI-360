@@ -1,6 +1,6 @@
 # Business Insights 360 – Power BI Dashboard for AtliQ Hardware
 
-🔗 [Live Power BI Report](https://app.powerbi.com/reportEmbed?reportId=2016b7f1-19ca-40dc-a9b8-96026acdf8b5&appId=69251476-e697-4298-adfa-f1bb9dca8dda&autoAuth=true&ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4)
+📌 [Live Power BI Report](https://app.powerbi.com/reportEmbed?reportId=2016b7f1-19ca-40dc-a9b8-96026acdf8b5&appId=69251476-e697-4298-adfa-f1bb9dca8dda&autoAuth=true&ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4)
 
 ## 🧠 Project Summary
 
@@ -25,7 +25,7 @@ Now, their leadership gets clear, real-time insights. Fewer blind spots. Faster 
 
 ## 📊 Dashboard Previews
 
-### 🔹 Home Page
+- 𝗛𝗼𝗺𝗲 𝗣𝗮𝗴𝗲: Intuitive dashboard hub enabling one-click access to Finance, Sales, Marketing, Supply Chain & Executive views for all domains.
 
 ![Home Page](https://github.com/Anand-Analyst-05/BI-360/blob/main/Files/Home%20Page.png?raw=true)
 
