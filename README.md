@@ -38,15 +38,15 @@ Customer-level performance, product contribution
 
 ### 📣 Marketing View
 Region- and product-wise profitability and trends
-![Marketing View]([./assets/marketing_view.png](https://github.com/Anand-Analyst-05/BI-360/blob/main/Files/Marketing%20View.png?raw=true))
+![Marketing View](https://github.com/Anand-Analyst-05/BI-360/blob/main/Files/Marketing%20View.png?raw=true)
 
 ### 🚚 Supply Chain View
 Forecast accuracy and order variance tracking
-![Supply Chain]([./assets/supply_chain_view.png](https://github.com/Anand-Analyst-05/BI-360/blob/main/Files/Supply%20Chain%20View.png?raw=true))
+![Supply Chain](https://github.com/Anand-Analyst-05/BI-360/blob/main/Files/Supply%20Chain%20View.png?raw=true)
 
 ### 🌟 Executive Overview
 Company-wide KPIs for top-level management
-![Executive View]([./assets/executive_view.png](https://github.com/Anand-Analyst-05/BI-360/blob/main/Files/Executive%20View.png?raw=true))
+![Executive View](https://github.com/Anand-Analyst-05/BI-360/blob/main/Files/Executive%20View.png?raw=true)
 
 ---
 
@@ -54,7 +54,7 @@ Company-wide KPIs for top-level management
 
 I used a **Snowflake schema**, with clean relationships across 10+ tables.
 
-![Data Model](./assets/data_modeling.png)
+![Data Model](https://github.com/Anand-Analyst-05/BI-360/blob/main/Files/Data%20Modeling.png?raw=true)
 
 ---
 
@@ -74,7 +74,7 @@ I used a **Snowflake schema**, with clean relationships across 10+ tables.
 
 ## 🧭 How to Explore
 
-1. Open the [Live Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiMzRjNGM1ZWMtODAzOC00YTExLWE3NDAtOWFlMzhkM2NmOTU1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+1. Open the [Live Power BI Report]([https://app.powerbi.com/view?r=eyJrIjoiMzRjNGM1ZWMtODAzOC00YTExLWE3NDAtOWFlMzhkM2NmOTU1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9](https://app.powerbi.com/reportEmbed?reportId=2016b7f1-19ca-40dc-a9b8-96026acdf8b5&appId=69251476-e697-4298-adfa-f1bb9dca8dda&autoAuth=true&ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4))
 2. Use the navigation buttons on the home page
 3. Explore each view: Finance, Sales, Marketing, Supply Chain, and Executive
 4. Apply filters to dig deeper into the data
