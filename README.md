@@ -1,6 +1,6 @@
 # Business Insights 360 – Power BI Dashboard for AtliQ Hardware
 
-🔗 [Live Report](https://app.powerbi.com/reportEmbed?reportId=2016b7f1-19ca-40dc-a9b8-96026acdf8b5&appId=69251476-e697-4298-adfa-f1bb9dca8dda&autoAuth=true&ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4)
+🔗 [Live Power BI Report](https://app.powerbi.com/reportEmbed?reportId=2016b7f1-19ca-40dc-a9b8-96026acdf8b5&appId=69251476-e697-4298-adfa-f1bb9dca8dda&autoAuth=true&ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4)
 
 ## 🧠 Project Summary
 
@@ -88,42 +88,35 @@ Now, their leadership gets clear, real-time insights. Fewer blind spots. Faster 
 
 ---
 
-## 📌 Folder Structure
+## 📁 Project Folder Structure
 
-📁 Business-Insights-360/
-├── 📁 assets/                        # All dashboard and data model screenshots
+```text
+Business-Insights-360/
+├── assets/                        → All dashboard and data model screenshots
+│   ├── Dashboard.pdf
 │   ├── home_page.png
 │   ├── finance_view.png
 │   ├── sales_view.png
 │   ├── marketing_view.png
 │   ├── supply_chain_view.png
 │   ├── executive_view.png
-│   └── data_modeling.png
-├── 📁 data/                          # Sample or dummy data if allowed
-│   └── *.csv
-├── 📁 documentation/                # Project charter, notes, assumptions
-│   └── Project_Charter.pdf
-├── README.md
-└── dashboard.pbix                   # Power BI source file (if public)
-
---
-
-📁 Business-Insights-360/
-├── assets/ → Screenshots of all views + model
-├── data/ → Cleaned CSV/Excel samples
-├── documentation/ → Project charter, notes
-├── dashboard.pbix → Power BI file (if shareable)
-└── README.md → You're reading it!
+│   ├── data_modeling.png
+│   ├── dashboard Link            → Power BI source file (Link)
+└── README.md                     → You're reading it! 
+```
 
 
 
 ---
 
-## 📬 Connect With Me
+## 📣 Contact
 
-📧 [Gmail](anandcinenkanolu.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/anand-cinenkanolu-data-analyst/)
-📎  [Portfolio](https://codebasics.io/portfolio/Anand-Cinenkanolu)
+For queries, collaboration opportunities, or feedback, feel free to reach out:
+
+- 📧 [**Email**:](mailto:anandcinenkanolu@gmail.com)
+- 💼 [**LinkedIn**:](https://www.linkedin.com/in/anand-cinenkanolu)
+- 🗂️ [**Professional Portfolio Link**:](https://www.linkedin.com/in/anand-cinenkanolu/details/portfolio/)
+
 💼 Always open to feedback, collaboration, or job opportunities in data analytics!
 
 ---
@@ -133,5 +126,4 @@ Now, their leadership gets clear, real-time insights. Fewer blind spots. Faster 
 This project is for educational and portfolio purposes only. No real business data is shared.
 
 ---
-
 
