@@ -26,33 +26,40 @@ Now, their leadership gets clear, real-time insights. Fewer blind spots. Faster 
 ## 📊 Dashboard Previews
 
 ### 🔹 Home Page
+
 ![Home Page](https://github.com/Anand-Analyst-05/BI-360/blob/main/Files/Home%20Page.png?raw=true)
 
 ### 💰 Finance View
-Net Sales %, Gross Margin %, Profit/Loss over time
+- Profit/Loss Statement Net Sales Performance over time, KPI's: Net Sales $,  Gross Margin %, Net Profit %.
+
+
 ![Finance View](https://github.com/Anand-Analyst-05/BI-360/blob/main/Files/Finance%20View.png?raw=true)
 
 ### 📈 Sales View
-Customer-level performance, product contribution
+- Customer-level performance, product contribution
+
 ![Sales View](https://github.com/Anand-Analyst-05/BI-360/blob/main/Files/Sales%20View.png?raw=true)
 
 ### 📣 Marketing View
-Region- and product-wise profitability and trends
+- Region- and product-wise profitability and trends
+
 ![Marketing View](https://github.com/Anand-Analyst-05/BI-360/blob/main/Files/Marketing%20View.png?raw=true)
 
 ### 🚚 Supply Chain View
-Forecast accuracy and order variance tracking
+- Forecast accuracy and order variance tracking
+
 ![Supply Chain](https://github.com/Anand-Analyst-05/BI-360/blob/main/Files/Supply%20Chain%20View.png?raw=true)
 
 ### 🌟 Executive Overview
-Company-wide KPIs for top-level management
+- Company-wide KPIs for top-level management
+
 ![Executive View](https://github.com/Anand-Analyst-05/BI-360/blob/main/Files/Executive%20View.png?raw=true)
 
 ---
 
 ## 📐 Data Modeling
 
-I used a **Snowflake schema**, with clean relationships across 10+ tables.
+- I used a **Snowflake schema**, with clean relationships across 10+ tables.
 
 ![Data Model](https://github.com/Anand-Analyst-05/BI-360/blob/main/Files/Data%20Modeling.png?raw=true)
 
@@ -61,7 +68,7 @@ I used a **Snowflake schema**, with clean relationships across 10+ tables.
 ## 🛠️ Tools & Skills Used
 
 | Area                 | Tools / Concepts                          |
-|----------------------|--------------------------------------------|
+|----------------------|-------------------------------------------|
 | Data Source          | Excel, MySQL                              |
 | Data Preparation     | Power Query                               |
 | Data Modeling        | Star + Snowflake Schema                   |
@@ -82,4 +89,36 @@ I used a **Snowflake schema**, with clean relationships across 10+ tables.
 ---
 
 ## 📌 Folder Structure
+
+📁 Business-Insights-360/
+├── 📁 assets/                        # All dashboard and data model screenshots
+│   ├── home_page.png
+│   ├── finance_view.png
+│   ├── sales_view.png
+│   ├── marketing_view.png
+│   ├── supply_chain_view.png
+│   ├── executive_view.png
+│   └── data_modeling.png
+├── README.md
+└── dashboard Link                   # Power BI source file (Link)
+
+
+
+---
+
+## 📬 Connect With Me
+
+📧 [anand.cinenkanolu@gmail.com]  
+🔗 [LinkedIn](https://www.linkedin.com/in/anand-cinenkanolu-data-analyst/)
+📎  [Portfolio](https://codebasics.io/portfolio/Anand-Cinenkanolu)
+💼 Always open to feedback, collaboration, or job opportunities in data analytics!
+
+---
+
+## 📝 License
+
+This project is for educational and portfolio purposes only. No real business data is shared.
+
+---
+
 
