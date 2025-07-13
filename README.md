@@ -1,6 +1,6 @@
 # Business Insights 360 – Power BI Dashboard for AtliQ Hardware
 
-📌 [Live Power BI Report](https://app.powerbi.com/reportEmbed?reportId=2016b7f1-19ca-40dc-a9b8-96026acdf8b5&appId=69251476-e697-4298-adfa-f1bb9dca8dda&autoAuth=true&ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4)
+📌 [Power BI Live Dashboard Report](https://app.powerbi.com/reportEmbed?reportId=2016b7f1-19ca-40dc-a9b8-96026acdf8b5&appId=69251476-e697-4298-adfa-f1bb9dca8dda&autoAuth=true&ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4)
 
 ## 🧠 Project Summary
 
@@ -121,9 +121,4 @@ For queries, collaboration opportunities, or feedback, feel free to reach out:
 
 ---
 
-## 📝 License
-
-This project is for educational and portfolio purposes only. No real business data is shared.
-
----
 
