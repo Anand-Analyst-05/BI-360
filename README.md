@@ -26,7 +26,7 @@ Now, their leadership gets clear, real-time insights. Fewer blind spots. Faster 
 ## 📊 Dashboard Previews
 
 ### 🔹 Home Page
-![Home Page](<img width="1152" height="646" alt="Image" src="https://github.com/user-attachments/assets/97fda105-1935-49e4-a9a5-ceb40c6c9593" />)
+![Home Page](/assets/images/Home)
 
 ### 💰 Finance View
 Net Sales %, Gross Margin %, Profit/Loss over time
