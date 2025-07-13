@@ -99,8 +99,21 @@ Now, their leadership gets clear, real-time insights. Fewer blind spots. Faster 
 │   ├── supply_chain_view.png
 │   ├── executive_view.png
 │   └── data_modeling.png
+├── 📁 data/                          # Sample or dummy data if allowed
+│   └── *.csv
+├── 📁 documentation/                # Project charter, notes, assumptions
+│   └── Project_Charter.pdf
 ├── README.md
-└── dashboard Link                   # Power BI source file (Link)
+└── dashboard.pbix                   # Power BI source file (if public)
+
+--
+
+📁 Business-Insights-360/
+├── assets/ → Screenshots of all views + model
+├── data/ → Cleaned CSV/Excel samples
+├── documentation/ → Project charter, notes
+├── dashboard.pbix → Power BI file (if shareable)
+└── README.md → You're reading it!
 
 
 
@@ -108,7 +121,7 @@ Now, their leadership gets clear, real-time insights. Fewer blind spots. Faster 
 
 ## 📬 Connect With Me
 
-📧 [anand.cinenkanolu@gmail.com]  
+📧 [Gmail](anandcinenkanolu.com)
 🔗 [LinkedIn](https://www.linkedin.com/in/anand-cinenkanolu-data-analyst/)
 📎  [Portfolio](https://codebasics.io/portfolio/Anand-Cinenkanolu)
 💼 Always open to feedback, collaboration, or job opportunities in data analytics!
