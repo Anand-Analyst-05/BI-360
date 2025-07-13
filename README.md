@@ -113,9 +113,9 @@ Business-Insights-360/
 
 For queries, collaboration opportunities, or feedback, feel free to reach out:
 
-- 📧 [**Email**:](mailto:anandcinenkanolu@gmail.com)
-- 💼 [**LinkedIn**:](https://www.linkedin.com/in/anand-cinenkanolu)
-- 🗂️ [**Professional Portfolio Link**:](https://www.linkedin.com/in/anand-cinenkanolu/details/portfolio/)
+- 📧 [**Email**:](anandcinenkanolu@gmail.com)
+- 💼 [**LinkedIn**:](https://www.linkedin.com/in/anand-cinenkanolu-data-analyst/)
+- 🗂️ [**Professional**](https://codebasics.io/portfolio/Anand-Cinenkanolu)
 
 💼 Always open to feedback, collaboration, or job opportunities in data analytics!
 
