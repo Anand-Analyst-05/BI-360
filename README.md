@@ -1,5 +1,7 @@
 ## Business Insights 360 – AtliQ Hardware Brick & Mortar and E-Commerce
 
+- Welcome to my comprehensive Business Insights 360 Project.
+
 📌 [Power BI Live Dashboard Report](https://app.powerbi.com/view?r=eyJrIjoiZGE0N2JlYzMtMDE2NS00MjRkLWE3ZTEtNTk2N2I3NTlkMmQ0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9) 👆🏻
 
 ## 🧠 Project Summary
